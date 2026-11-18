@@ -13,7 +13,7 @@ assets/img/favicon.svg
 
 ## Practices featured
 - **Dr S.P. Lerutla**: free Voluntary Medical Male Circumcision (013 265 1097 / 076 587 6330)
-- **Lebatle Renal Care**: dialysis and kidney care (083 960 8932, info@lebatlerenalcare.co.za)
+- **Lebatle Renal Care** (also Dr Seoki P. Lerutla, the same doctor as Dr S.P. Lerutla): dialysis and kidney care (083 960 8932, info@lebatlerenalcare.co.za)
 - **T Mailola Speech Therapy & Audiology**: hearing, speech and swallowing
 
 ## Still to confirm with the client
